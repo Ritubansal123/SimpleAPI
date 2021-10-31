@@ -24,3 +24,10 @@ Difference between subject, behaviorsubject, Asyncsubject, RelaySubject, observa
 Ng new Ritu approx 300MB size 
 What is WebPack and complete knowledge of WebPack?
 Azure Kubernetes Service
+
+
+31-10-2021
+Application successfully uploaded to GitHub Respository
+Now the next point is we have to create the pipleine in azure Devops.
+Finally we get to azure Devops.
+Now Azure devops does not provide hosting environment 
